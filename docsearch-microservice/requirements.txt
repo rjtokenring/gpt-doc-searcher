@@ -1,0 +1,9 @@
+Flask
+connexion[swagger-ui]
+Flask-Injector
+injector
+flask_cors
+langchain
+opensearch-py
+json-encoder
+openai
