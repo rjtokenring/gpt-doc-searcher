@@ -1,6 +1,6 @@
 # GPT Doc Searcher
 
-GPT based document search. Query your data with Vector searches!
+GPT based document search. Query YOUR data using LLM.
 
 LLMs are a phenomenonal technologies for knowledge reasoning. They are pre-trained on large amounts of publicly available data.
 
